@@ -1,0 +1,11 @@
+body {
+    margin: 0; /* quita el margen */
+    font-family: Arial, sans-serif; /* establece la tipografia */
+    background: gray;  /* cambia color del fondo */
+}
+
+/* .selector se refiere a clases */
+
+/* #selector se refiere a IDs */
+
+/* * se refiere a todo */
